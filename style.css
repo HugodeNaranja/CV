@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  margin: 0;
+}
+header {
+  background-color: #4abc96;
+}
+footer {
+  background-color: #323c45;
+  color: white;
+}
+footer ul {
+  list-style-type: none;
+}
+p {
+	background-color: #4abd96;
+}
+td {
+background-color: 	#5dbcd2;
+display: inline;  
+border: 2px solid 	#5dbcd2; 
+border-radius: 20px;
+margin-right: 25px;
+}
+.nombre{
+	font-size: 20px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+}
+.col {
+	width: 33.3%;
+	padding-left: 2%;
+}
+.estil {
+	color: #a98653;
+}
